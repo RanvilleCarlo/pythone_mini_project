@@ -1,6 +1,5 @@
 # Donkey Kong Game
-
-![Game Screenshot](screenshot.png)
+<p align="center"><img src="donkeykey.png"></p>
 
 A Python implementation of the classic Donkey Kong arcade game using the Pygame library.
 
